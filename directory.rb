@@ -1,3 +1,5 @@
+# first we print the list of students
+
 puts "The students of Villians Academy"
 puts "-------------"
 puts "Dr. Hannibal Lecter"
